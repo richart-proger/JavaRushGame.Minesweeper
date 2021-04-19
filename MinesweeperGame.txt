@@ -1,5 +1,2 @@
-MinesweeperGame - проект игры Сапер из курса JavaRush. 
-21.12.2020
---------------------
 MinesweeperGame - Minesweeper game project from JavaRush course (CodeGym).
 21 December 2020
